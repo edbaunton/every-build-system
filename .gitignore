@@ -2,3 +2,6 @@ hello
 bazel-*
 .buckd
 buck-out
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
