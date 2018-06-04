@@ -18,4 +18,4 @@
 
 ## pants
 
-`./pants compile .:hello --build-ignore=BUILD.bazel`
+`./pants compile .:hello`
