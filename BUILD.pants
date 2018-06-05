@@ -1,4 +1,4 @@
 cpp_binary(
     name="hello",
-    sources=["hello.c"]
+    sources=["hello.cpp"]
 )

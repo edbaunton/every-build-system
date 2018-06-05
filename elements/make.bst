@@ -1,11 +1,7 @@
-kind: autotools
+kind: make
 depends:
    - base.bst
 
 sources:
    - kind: local
      path: .
-
-config:
-    configure-commands:
-    - "true"

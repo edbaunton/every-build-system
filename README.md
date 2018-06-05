@@ -1,25 +1,4 @@
-## make
-
-`make`
-
-## cmake
-
-`cmake` in a bld dir so we don't clobber the regular Makefile.
-
-`cmake . -Bbld && cd bld && make`
-
-## bazel
-
-`bazel build //...`
-
-## buck
-
-`buck build //...`
-
-## pants
-
-`./pants compile .:hello`
-n
+To see how to build with all the different build systems please see `buildall.sh`.
 
 ## Buildstream
 To build with make:

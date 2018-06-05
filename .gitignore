@@ -10,3 +10,6 @@ dist
 .pids
 .pants.workdir.file_lock
 bld
+plz-out
+.plz-cache
+.cache
