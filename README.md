@@ -4,7 +4,7 @@ To see how to build with all the different build systems please see `buildall.sh
 To build with make:
 
 ```
-/path/to/buildstrema/contrib/bst-here
+/path/to/buildstream/contrib/bst-here
 bst build make.bst
 bst shell make.bst /usr/bin/hello
 ```
